@@ -1,2 +1,2 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　 ୨　<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4c0a6227-97f5-48fa-b311-842435e18d8c" />  𓂂  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3fad7771-7c5a-49b4-944b-2ea231584453" />　୧
- <img width="1357" height="884" alt="image" src="https://github.com/user-attachments/assets/e47f3e7c-8147-4203-88d0-7b520caf6f71" />
+ <img width="1357" height="884" alt="image" src="https://github.com/user-attachments/assets/c347d80f-bfb5-44a2-9920-2f1b171f2b3b" />
