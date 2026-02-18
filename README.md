@@ -1,2 +1,2 @@
-　　　　　　　　　　　　　　　　　　　　　　　　　 ୨　<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1fe1a98c-18ec-4fa9-82f8-f2f3eb1ec944" />  𓂂  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2def8897-655c-4446-9ad4-f8c24617562f" />　୧
+　　　　　　　　　　　　　　　　　　　　　　　　　 ୨　<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4c0a6227-97f5-48fa-b311-842435e18d8c" />  𓂂  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3fad7771-7c5a-49b4-944b-2ea231584453" />　୧
  <img width="1134" height="884" alt="image" src="https://github.com/user-attachments/assets/2f7fb082-51fa-4cbd-85cc-9f4709391183" />
