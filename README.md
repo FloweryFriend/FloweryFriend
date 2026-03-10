@@ -1,2 +1,2 @@
 　　　　　　　　　　   <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/1e3fe8eb-4280-4986-b1f1-0a4531dd34e6" /> <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/00fb67a5-458f-49d3-b1a4-659be04dc00d" /> <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a4cc169b-21b5-4f70-beca-6b53b377f89a" /> <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6c3c2a64-501e-4c94-acaf-69c5a9af9266" /> 　　<img width="212" height="183" alt="image" src="https://github.com/user-attachments/assets/e696708f-2f49-41b7-b195-c056c07e20ce" />
-
+$\color{rgb(149,202,142)}{\textsf{"Copies are monochrome. But you colored each one of us in with care."}}$
