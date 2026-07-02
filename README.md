@@ -6,6 +6,6 @@
 <p align="center">sign ata or sp
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qewkaspvg6qsin3tfruyyj5sqy&cover_image=false&theme=novatorem&show_offline=true&background_color=d7d7d7&interchange=false&profanity=false&hide_remaster=false&bar_color=262534&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qewkaspvg6qsin3tfruyyj5sqy&cover_image=true&theme=novatorem&show_offline=true&background_color=d7d7d7&interchange=false&profanity=false&hide_remaster=false&bar_color=030305&bar_color_cover=false">
   </a>
 </p>
